@@ -1,0 +1,79 @@
+.arrow_box {
+	position: relative;
+	background: #FDE26C;
+    border: 4px solid #f5f7f8;
+    border-radius:30px 30px 30px 30px;
+    height: '90%';
+}
+.arrow_box:after, .arrow_box:before {
+	right: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.arrow_box:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-right-color: #FDE26C;
+	border-width: 20px;
+	margin-top: -20px;
+}
+.arrow_box:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-right-color: #FDE26C;
+	border-width: 26px;
+	margin-top: -26px;
+}
+
+
+/* 왜 css가 안먹지... 우선순위가 밀리는것 같은데 어떻게 해결해야하나... */
+.paper {
+	margin-top: 10%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.avatar {
+	margin: 8px;
+	background-color: gray
+}
+
+.form {
+	width: 100%;
+	margin-top: 8px;
+}
+
+.small {
+	width: 20%;
+	height: 20%;
+}
+
+.medium {
+	width: 50%;
+	height: 50%;
+}
+
+.MuiAvatar-root {
+	width: 100%;
+	height: 100%;
+}
+
+.balloon {
+	margin: 16px;
+	align-items: center;
+	font-size: 10px;
+}
+
+.notchedOutline {
+	border-width: 2px;
+	border-color: #E0F511 !important;
+}
+
+.submit {
+	margin: 3, 0, 2, 0;
+}
