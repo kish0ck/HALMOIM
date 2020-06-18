@@ -24,6 +24,8 @@ typora-copy-images-to: img
 - 활동적인 노후생활을 추구하며, 미디어 활용능력이 좋은 액티브 시니어들이 
   가까운 거리를 기반으로 모임이나 친구를 만들 수 있도록 돕는 플랫폼
 
+## UCC
+[Youtube](https://youtu.be/FEuLBY0edQk)
 
 
 #### 기능
