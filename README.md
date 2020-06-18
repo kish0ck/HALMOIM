@@ -25,7 +25,7 @@ typora-copy-images-to: img
   가까운 거리를 기반으로 모임이나 친구를 만들 수 있도록 돕는 플랫폼
 
 ## UCC
-[시연영상](https://youtu.be/FEuLBY0edQk)
+-[시연영상](https://youtu.be/FEuLBY0edQk)
 
 
 #### 기능
